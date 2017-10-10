@@ -1,0 +1,16 @@
+
+Competencies
+
+jQuery really shines in DOM manipulation
+The jQuery library has a variety of event handlers to choose from
+99% of the time, need the page to fully load before executing any other commands
+DOM elements (HTML tags) are selected and event handlers are called to “bind” these elements to a certain user-generated event
+After the event is triggered, a callback function runs to execute an action
+Many times jQuery events are coded to take the place of the default action, like submitting a form. This is achieved through the preventDefault() call 
+
+Applications
+Develop dynamic and interactive components with jQuery
+
+
+Resources:
+https://api.jquery.com/
