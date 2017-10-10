@@ -28,4 +28,7 @@ Williams, Emilio
 
 Cesar , Chris 
 
- 
+## For Next Time
+
+Flatiron jQuery Moving Things with Javascript
+Read: https://www.w3schools.com/xml/ajax_intro.asp
