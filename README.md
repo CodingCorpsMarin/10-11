@@ -10,7 +10,7 @@ Edgar , Robert
 
 Diana , Gino 
 
-Alejandro , Gloria, Mayra 
+Alejandro , Gloria , Mayra 
 
 Isaac , Dulce 
 
